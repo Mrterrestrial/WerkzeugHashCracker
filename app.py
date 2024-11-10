@@ -63,7 +63,7 @@ def main():
     )
     parser.add_argument(
         "-w", "--wordlist",
-        default="Wordlist/rockyou.txt",
+        default="Wordlist/small_rockyou.txt",
         help="Path to the wordlist file (default: 'Wordlist/rockyou.txt')."
     )
 
